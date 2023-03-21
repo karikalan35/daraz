@@ -1,0 +1,103 @@
+<div class="middle-item-cat">
+        <ul>
+          <li class="cat-items">
+            <a href="#" title="Home">Electronic Devices</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Electronic Accessories</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">TV & Home Appliances</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="car-items">
+            <a href="#" title="Home">Health & Beauty</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Babies & Toys</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Groceries and Pets</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Home & LifeStyle</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Womens's Fashion</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Men's Fashion</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Watches & Accesories</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Sports & Outdoor</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+          <li class="cat-items">
+            <a href="#" title="Home">Automotive & Motorbike</a>
+            <ul>
+              <li><a href="#">Homea</a></li>
+              <li><a href="#">Homeb</a></li>
+              <li><a href="#">Homec</a></li>
+            </ul>
+          </li>
+        </ul>
+        <div class="middle-banner">
+          <img src="daraz-middle-banner.webp" alt="" />
+        </div>
+      </div>
